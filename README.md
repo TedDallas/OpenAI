@@ -1,3 +1,3 @@
 # OpenAI
 
-Code for demos, utilities, examples, robot overlords, etc.
+Code using OpenAI API for demos, utilities, examples, robot overlords, etc.
